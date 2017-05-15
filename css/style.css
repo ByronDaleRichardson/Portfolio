@@ -1,0 +1,95 @@
+/*Colors   Clean #dfdce3, Fresh #4abdac, Orange #f49902, Vermillion #fc4a1a, Sunshine #f7b733*/
+
+nav ul a {
+	font-size: 1.2rem;
+	letter-spacing: 2px;
+	font-weight: 300;
+	color: #fc4a1a; /*Vermillion orange*/
+}
+
+nav {
+	box-shadow: none;
+	background-color: #4abdac; /*Fresh blue*/
+}
+
+span {
+	font-weight: 400;
+}
+
+i {
+	color: #1e88e5;
+}
+
+a.brand-logo {
+	color: #fc4a1a;
+}
+
+.brand-logo {
+	font-weight: 300;
+}
+
+.material-icons {
+	color: white;
+}
+
+.navbar-fixed {
+	z-index: 998;
+}
+
+#intro {
+	min-height: 432px;
+	max-height: 664px;
+	background-color: #f49902; /*Orange*/
+}
+
+.intro-text {
+	font-weight: 300;
+	padding: 10% 0 0 0;
+	font-size: 6.0rem;
+	color: white;
+}
+
+.intro-text-2 {
+	font-weight: 100;
+	padding: 0 0 10% 0;
+	color: white;
+}
+
+.icon_orange {
+	color: #f49902;
+}
+
+.h2-text {
+	font-weight: 100;
+	line-height: 4.5rem;
+	margin-bottom: 4%;
+}
+
+.h2-span {
+	color: #4abdac;
+	font-weight: 300;
+}
+
+#work, #about {
+	background: #dfdce3;
+}
+
+.h2-text-alt {
+	color: #f49902;
+}
+
+.card .card-image img {
+	height: auto;
+}
+
+footer {
+	background-color: #4abdac;
+}
+
+#footer-row {
+	margin-bottom: 0;
+}
+
+#profilePic {
+	width: 100%;
+}
