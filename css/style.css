@@ -29,7 +29,7 @@ a.brand-logo {
 }
 
 .material-icons {
-	color: white;
+	color: black;
 }
 
 .navbar-fixed {
@@ -80,6 +80,10 @@ a.brand-logo {
 
 .card .card-image img {
 	height: auto;
+}
+
+#cardbio {
+	text-align: justify;
 }
 
 footer {
